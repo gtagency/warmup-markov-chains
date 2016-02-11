@@ -74,7 +74,7 @@ class Marco(object):
 def main():
     with open('./corpora/agency.txt', encoding='utf-8') as f:
         all_text = f.read()
-    marco = Marco(2, 200, 1)
+    marco = Marco(1, 200, 1)
     marco.populate(all_text)
     output_str = marco.generate()
     print(output_str)
