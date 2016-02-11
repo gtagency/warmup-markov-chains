@@ -1,0 +1,38 @@
+We will be meeting tonight in CCB 345 at 6:30 to talk about decision trees and about our project for this semester! As always there will be pizza and drinks.
+Hello Agents! We'll be having our first project meeting tonight in CCB 346 at 6:00 to decide on our new project for the semester! To get things started we'll be doing a warm-up Markov Chains and haveing a short talk about how to set up git and python for those of you who aren't familiar. All of the resources and a more depth explanation for tonight can be found on our website here: http://gtagency.github.io/blog/project-meeting-resources/
+We will be also be meeting at our normal time on Wednesday, 6:30 in CCB 345! Pizza and drinks will be provided as always:)
+See you there!
+The career fair is approaching quickly! Remember to attend and happy job hunting from The Agency!
+The Agency will not be meeting this week because of the CoC career fair! Don't forget to attend!
+The agency will not meet on the first week of school! Normal club activity will resume next week.
+
+We WILL be meeting today for a work session (12/1)! We know that it is dead week so come if you are available. As always we will be in CCB 345.
+Follow The Agency on Instagram and Twitter: @TheAgencyGT
+
+Tonight we're continuing a bit more on NLP, specifically the concept of CFGs, or Context-Free Grammars. We're also going to be talking about elections for next year. To cast your nominations, visit this form. As always, we're meeting in CCB 345 at 6:30pm and there'll be pizza.
+Tonight we're discussing the ethical implications of AI. As always, we're meeting at CCB 345 at 6:30pm.
+The work session tonight has been cancelled. Also, there will not be a regular meeting tomorrow due to the Theory/AI grad school interest dinner tomorrow at the Klaus Atrium at 6:00pm.
+Tonight we're talking about collaborative filtering. Basically, given an incomplete amount of data regarding user preferences, collaborative filtering lets you predict whether an individual will like a product by taking into account how users with similar preferences reacted to the item. Of course, there's a lot of math involved, but from a conceptual level check out the gif below. As always, we'll be meeting 6:30pm at CCB 345 and there'll be pizza.
+Tonight we're having a talk on Natural Language Processing (NLP). NLP is all about developing algorithms and AI to allow computers to be capable of processing language in ways humans understand it (relationships between words like "king" and "queen," what kind of words to expect to fill in a blank for an incomplete sentence, etc.).
+As always, we're meeting at CCB 345 at 6:30pm and there'll be pizza.
+
+Tonight we're talking about Active Learning. Active Learning is a semi-supervised machine learning algorithm (meaning the user is *somewhat* involved in the algorithm's iterations) that involves the user and machine interacting with one another to help the machine reach the desired output.
+As always, we'll be meeting at CCB 345 at 6:30pm and there'll be pizza.
+Tonight we're discussing a bit more on graphs as well as an autonomous car project we've been working on with RoboJackets. As always, it'll be at 6:30pm at CCB 346 and there'll be pizza.
+First project work session of the semester is tonight! It'll be in CCB 346 from 6:00 to whenever.
+Room TBD for our Tuesday work sessions, so this week we're just having our 6:30pm Wednesday meeting at CCB 345. We're going to be starting off the semester with some discussion on graph search algorithms and how they relate to Game AI.
+Tonight we're discussing the applications of AI and how we see it in the real world. It's open-ended, so feel free to bring in articles and concepts to discuss! As always, the meeting is at 6:30pm, but note that the meeting is at CCB 346 rather than CCB 345 this time around.
+Also note that this is going to be our last meeting for the semester, we are NOT meeting during dead week.
+We're having a meeting tonight focusing on Natural Language Processing (NLP). NLP is about enabling computers to understand human (natural) language, so it'll definitely be an interesting discussion.
+As always, the meeting is at CCB 345 at 6:30pm tonight and there will be pizza.
+Tonight we're talking about n-grams. N-grams are about predictive sequencing with items such as words and phrases, and are used in a wide array of applications through Natural Language Processing.
+Definitely make your way down to CCB 345 at 6:30pm tonight!
+We're having a cool talk tonight on Monte Carlo Tree Search (think decision-making in games without good heuristics to work with)!
+As always, it's 6:30pm at CCB 345 and there will be free pizza.
+AI-generated music? We think yes! The Agency's next project is a program that can generate enjoyable music on its own. At the same time, we are also considering additional functionality to our Corobot.
+Want to be a part of an exciting new project? Then definitely make your way over to CCB 346 at 6pm Tuesday!
+Join us again tonight for another meeting at 6:30 for a discussion of our first project and the AI strategies we'll employ to tackle it.
+College of Computing Rm. 345. Free Pizza!
+Feel free to bring any cool AI news, projects, papers, ideas, etc. that you've stumbled across the past week!
+Stop by tonight at CCB 345 at 6:30 for free pizza and an overview of the upcoming semester!
+This just in! The Agency has picked their project for Fall 2014. We will be developing the Freshman Detector/General Person Recognizer. The goal for this project is given some data about a person, decide whether they belong to a certain group or not. We'll begin work this Tuesday!
